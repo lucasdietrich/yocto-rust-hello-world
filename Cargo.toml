@@ -9,4 +9,3 @@ repository = "git@github.com:lucasdietrich/yocto-rust-hello-world.git"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-cargo-bitbake = "0.3.16"
